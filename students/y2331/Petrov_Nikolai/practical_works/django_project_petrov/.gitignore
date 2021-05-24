@@ -1,5 +1,0 @@
-.idea
-venv
-*/migrations
-*.pyc
-db.sqlite3
