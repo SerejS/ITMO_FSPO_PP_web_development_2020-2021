@@ -2,7 +2,7 @@
 
 Отображает постранично таблицу техники, сданной в ателье на ремонт.
 
-**URL:**: /technique
+**URL:** /technique
 
 **Auth required:** None
 
